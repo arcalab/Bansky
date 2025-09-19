@@ -1,4 +1,4 @@
-# Banksy - a paraconsistent inference engine to support research in age-related macular degeneration
+# A paraconsistent inference engine to support research in age-related macular degeneration
 
 ## Project's description
 ![Banksy](./img2.png)
