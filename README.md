@@ -28,8 +28,15 @@ The project started in the 1st of Sep. 2025 and will end in the 31st of August
   </div>
   <div style="flex: 1; padding-left:20px;">
     <p>
-      Here is some text next to the image.  
-      Both the image and the text take up 50% of the page width.
+Age-related macular degeneration (AMD) is a multifactorial disease of the
+macula recognised as the leading cause of vision loss in people over 55. This
+project innovates on AMD prediction analysis through new methods and tools for
+paraconsistent reasoning over complex, weak consistent data classified by often
+contradictory medical judgements. The team fosters synergies between INESCTEC,
+AIBILI and UA (CIDMA, its Research Center in Maths).
+
+The project started in the 1st of Sep. 2025 and will end in the 31st of August
+2028.
     </p>
   </div>
 </div>
