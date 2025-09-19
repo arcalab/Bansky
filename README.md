@@ -9,7 +9,7 @@
     project innovates on AMD prediction analysis through new methods and tools for
     paraconsistent reasoning over complex, weak consistent data classified by often
     contradictory medical judgements. 
-
+  </p>
   <p>
     The team fosters synergies between 
     <a href="https://www.inesctec.pt/">INESCTEC</a>, 
