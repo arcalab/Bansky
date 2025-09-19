@@ -2,22 +2,23 @@
 
 ## Project's description
 <div style="display:flex; align-items:center;">
-  <div style="flex: 1; text-align:center;">
-    <img src="./img2.png" alt="My photo" style="max-width:100%; height:auto;">
+  <div style="flex: 1; text-align:center;">  
+  <p>
+    Age-related macular degeneration (AMD) is a multifactorial disease of the
+    macula recognised as the leading cause of vision loss in people over 55. This
+    project innovates on AMD prediction analysis through new methods and tools for
+    paraconsistent reasoning over complex, weak consistent data classified by often
+    contradictory medical judgements. The team fosters synergies between INESCTEC,
+    AIBILI and UA (CIDMA, its Research Center in Maths).
+    The project started in the 1st of Sep. 2025 and will end in the 31st of August
+    2028.
+  </p>
   </div>
   <div style="flex: 1; padding-left:20px;">
-    <p>
-Age-related macular degeneration (AMD) is a multifactorial disease of the
-macula recognised as the leading cause of vision loss in people over 55. This
-project innovates on AMD prediction analysis through new methods and tools for
-paraconsistent reasoning over complex, weak consistent data classified by often
-contradictory medical judgements. The team fosters synergies between INESCTEC,
-AIBILI and UA (CIDMA, its Research Center in Maths).
-The project started in the 1st of Sep. 2025 and will end in the 31st of August
-2028.
-    </p>
+    <img src="./img2.png" alt="My photo" style="max-width:100%; height:auto;">
   </div>
 </div>
+
 ## Research team
 
 + Luís Barbosa (PI)
