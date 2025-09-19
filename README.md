@@ -10,7 +10,7 @@
     paraconsistent reasoning over complex, weak consistent data classified by often
     contradictory medical judgements. The team fosters synergies between 
     <a href="https://www.inesctec.pt/">INESCTEC</a>, 
-    <a href=https://www.aibili.pt/">AIBILI</a>,
+    <a href="https://www.aibili.pt/">AIBILI</a>,
     and
     <a href="https://cidma.ua.pt/">UA (CIDMA, its Research Center in Maths</a>.
 
