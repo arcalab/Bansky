@@ -8,8 +8,8 @@
     macula recognised as the leading cause of vision loss in people over 55. This
     project innovates on AMD prediction analysis through new methods and tools for
     paraconsistent reasoning over complex, weak consistent data classified by often
-    contradictory medical judgements. The team fosters synergies between INESCTEC,
-    AIBILI and UA (CIDMA, its Research Center in Maths).
+    contradictory medical judgements. The team fosters synergies between [INESCTEC](https://www.inesctec.pt/pt),
+    [AIBILI](https://www.aibili.pt/) and [UA (CIDMA, its Research Center in Maths)](https://cidma.ua.pt/).
     The project started in the 1st of Sep. 2025 and will end in the 31st of August
     2028.
   </p>
@@ -21,10 +21,10 @@
 
 ## Research team
 
-+ Luís Barbosa (PI)
-+ Alexandre Madeira
-+ Renato Neves
-+ Rufino Silva
++ [Luís Barbosa](https://www.di.uminho.pt/~lsb/) (PI)
++ [Alexandre Madeira](https://sweet.ua.pt/madeira/)
++ [Renato Neves](https://alfa.di.uminho.pt/~nevrenato/)
++ [Rufino Silva](https://www.cliors.pt/corpo-clinico/prof-dr-rufino-silva/)
 
 ## Publications
 
@@ -40,6 +40,7 @@
 ## Dissemination
 
 TBA
+
 
 ## Previous related projects
 
