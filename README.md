@@ -15,7 +15,7 @@
     <a href="https://www.inesctec.pt/">INESCTEC</a>, 
     <a href="https://www.aibili.pt/">AIBILI</a>,
     and
-    <a href="https://cidma.ua.pt/">UA (CIDMA, its Research Center in Maths</a>.
+    <a href="https://cidma.ua.pt/">UA (CIDMA)</a>.
   </p>
   <p>
     The project started in the 1st of Sep. 2025 and will end in the 31st of August
