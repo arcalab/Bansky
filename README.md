@@ -15,11 +15,23 @@ The project started in the 1st of Sep. 2025 and will end in the 31st of August
 2028.
 
 <div style="display:flex; align-items:center;">
-  <img src="./img2.png" alt="My photo" width="150" style="margin-right:20px;">
+  <img src="./img2.png" alt="My photo" width="150" style="margin-right:50px;">
   <p>
     Here is some text next to the image.  
     This stays neatly aligned side by side, and you can control spacing with CSS.
   </p>
+</div>
+
+<div style="display:flex; align-items:center;">
+  <div style="flex: 1; text-align:center;">
+    <img src="./img2.png" alt="My photo" style="max-width:100%; height:auto;">
+  </div>
+  <div style="flex: 1; padding-left:20px;">
+    <p>
+      Here is some text next to the image.  
+      Both the image and the text take up 50% of the page width.
+    </p>
+  </div>
 </div>
 ## Research team
 
