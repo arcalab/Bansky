@@ -14,6 +14,13 @@ AIBILI and UA (CIDMA, its Research Center in Maths).
 The project started in the 1st of Sep. 2025 and will end in the 31st of August
 2028.
 
+<div style="display:flex; align-items:center;">
+  <img src="./img2.png" alt="My photo" width="150" style="margin-right:20px;">
+  <p>
+    Here is some text next to the image.  
+    This stays neatly aligned side by side, and you can control spacing with CSS.
+  </p>
+</div>
 ## Research team
 
 + Luís Barbosa (PI)
