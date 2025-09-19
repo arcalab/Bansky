@@ -9,9 +9,7 @@
     project innovates on AMD prediction analysis through new methods and tools for
     paraconsistent reasoning over complex, weak consistent data classified by often
     contradictory medical judgements. The team fosters synergies between 
-    [INESCTEC](https://www.inesctec.pt/pt),
-    [AIBILI](https://www.aibili.pt/),
-    and [UA (CIDMA, its Research Center in Maths)](https://cidma.ua.pt/).
+    [INESCTEC](https://www.inesctec.pt/pt), [AIBILI](https://www.aibili.pt/), and [UA (CIDMA, its Research Center in Maths)](https://cidma.ua.pt/).
     The project started in the 1st of Sep. 2025 and will end in the 31st of August
     2028.
   </p>
