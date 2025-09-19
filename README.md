@@ -1,7 +1,7 @@
 # A paraconsistent inference engine to support research in age-related macular degeneration
 
 ## Project's description
-![Banksy](./img2.png)
+![Banksy](./img2.png) # relative
 
 Age-related macular degeneration (AMD) is a multifactorial disease of the
 macula recognised as the leading cause of vision loss in people over 55. This
@@ -37,5 +37,10 @@ TBA
 
 ## Previous related projects
 
++ [Ibex - Quantitative methods for cyber-physical programming](https://lmf.di.uminho.pt/Ibex/)
++ [DaVinci - Distributed architectures, variability and interaction for
+  cyber-physical systems](https://davinci.di.uminho.pt/)
++ [Klee - coalgebraic modeling and analysis for computational synthetic biology](https://klee.di.uminho.pt/)
++ [DaLí - Dynamic Logics for cyber-physical systems: towards contract based design](https://dali.di.uminho.pt/)
 
 ## Acknowledgements
