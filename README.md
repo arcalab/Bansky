@@ -1,7 +1,5 @@
 # A paraconsistent inference engine to support research in age-related macular degeneration
 
-## Project's description
-
 ![Banksy](./img2.png)
 
 Age-related macular degeneration (AMD) is a multifactorial disease of the
