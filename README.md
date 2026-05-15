@@ -1,4 +1,5 @@
-# A paraconsistent inference engine to support research in age-related macular degeneration
+# Banksy - A paraconsistent inference engine to support research in age-related macular degeneration
+## (COMPETE2030-FEDER-00892000) 
 
 ![Banksy](./img2.png)
 
@@ -86,7 +87,7 @@ https://doi.org/10.4204/EPTCS.430.1
 ## Dissemination
 
 
-L Barbosa. Paraconsistency and Program Logics. Invited Talk at DaLí 2025: The 6th Workshop on Dynamic Logic - New Trends and Applications. Xi'an, China, 2025 
+L. Barbosa. Paraconsistency and Program Logics. Invited Talk at DaLí 2025: The 6th Workshop on Dynamic Logic - New Trends and Applications. Xi'an, China, 2025 
 
 A. Madeira and M. A. Martins. Structured Specification in Many Logic Modal Logic. WADT 2026 - Workshop on Algebraic Development Techniques --  STAF 26 -- Software Technologies: Applications and Foundations, Rennes, France, 2026
 
@@ -102,5 +103,5 @@ A. Iglesias, A. Madeira, M. A. Martins and J. Proença. ReTA: Modeling Reconfigu
 + [DaLí - Dynamic Logics for cyber-physical systems: towards contract based design](https://dali.di.uminho.pt/)
 
 ## Acknowledgements
-COMPETE2030-FEDER-00892000 
+
 ![compete](./compete.png)
