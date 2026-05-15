@@ -17,13 +17,21 @@ and will end in the 31st of August 2028.
 + [Luís Barbosa](https://www.di.uminho.pt/~lsb/) (PI)
 + [Renato Neves](https://alfa.di.uminho.pt/~nevrenato/)
 
+### AIBILI
++ [Rufino Silva](https://www.cliors.pt/corpo-clinico/prof-dr-rufino-silva/)
++ [Daniel Figueiredo](https://)
++ [Rita Coimbra](https://)
+
 ### CIDMA
 + [Alexandre Madeira](https://sweet.ua.pt/madeira/)
 + [Manuel A. Martins](https://sweet.ua.pt/martins/)
 
-### AIBILI
-+ [Rufino Silva](https://www.cliors.pt/corpo-clinico/prof-dr-rufino-silva/)
-+ [Daniel Figueiredo](https://)
+### PhD Students
++ [Juliana Cunha](https://)
+
+### Grant holders
++ [Joana Rodrigues](https://)
+
 
 ## Project Structure
 
