@@ -23,8 +23,6 @@ and will end in the 31st of August 2028.
 + [Rita Coimbra](https://www.cienciavitae.pt/portal/671D-B2C0-689D)
 + [Patricia Barreto](https://www.cienciavitae.pt/portal/2313-D0C8-C843)
 + [Cláudia Farinha](https://www.cienciavitae.pt/portal/3111-06FD-17D9)
-+ 
-
 
 ### CIDMA
 + [Alexandre Madeira](https://sweet.ua.pt/madeira/)
